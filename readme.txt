@@ -1,0 +1,1 @@
+Training project for work the git
